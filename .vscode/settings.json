@@ -1,0 +1,6 @@
+{
+  "files.associations": {},
+  "blade.format.enable": true,
+  "emmet.triggerExpansionOnTab": true,
+  "editor.autoClosingBrackets": "always"
+}
